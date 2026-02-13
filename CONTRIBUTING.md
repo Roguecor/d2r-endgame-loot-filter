@@ -12,4 +12,4 @@ ex. is for magic gear
 
 fx. is for rare gear
 
-Cluttersome categories can be added, but must make sense and be Disabled by default
+Cluttersome categories such as ammo and super pots can be added, but must make sense and be Disabled by default
