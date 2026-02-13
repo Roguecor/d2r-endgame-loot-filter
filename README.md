@@ -1,4 +1,4 @@
-# Endgame v1.3.1 Loot Filter
+# Endgame v1.3.2 Loot Filter
 
 ## Change Log
 *   [Changelog](CHANGELOG.md)
