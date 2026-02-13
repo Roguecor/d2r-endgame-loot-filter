@@ -1,4 +1,8 @@
 # Endgame v1.3.1 Loot Filter
+
+## Change Log
+*   [Changelog](CHANGELOG.md)
+
 ---
 
 # Socketed/Ethereal Base – Armors
