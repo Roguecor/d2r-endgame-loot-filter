@@ -278,20 +278,7 @@
             ]
         },
         {
-            "name": "e1. Rare Rings and Amulets",
-            "enabled": true,
-            "ruleType": "show",
-            "filterEtherealSocketed": false,
-            "equipmentRarity": [
-                "rare"
-            ],
-            "equipmentCategory": [
-                "rings",
-                "amule"
-            ]
-        },
-        {
-            "name": "e2. Magic Rings and Amulets",
+            "name": "e1. Magic Rings and Amulets",
             "enabled": false,
             "ruleType": "show",
             "filterEtherealSocketed": false,
@@ -304,49 +291,7 @@
             ]
         },
         {
-            "name": "f1. Rare High Value Equipment",
-            "enabled": true,
-            "ruleType": "show",
-            "filterEtherealSocketed": false,
-            "equipmentRarity": [
-                "rare"
-            ],
-            "equipmentCategory": [
-                "glove",
-                "boots",
-                "barbh",
-                "druid",
-                "warlo",
-                "necro",
-                "circl",
-                "belts"
-            ],
-            "equipmentItemCode": [
-                "am5",
-                "7gs",
-                "9cr",
-                "7wa",
-                "9tw",
-                "7bk",
-                "7lw",
-                "9lw",
-                "ama",
-                "amf",
-                "7tk",
-                "7fb",
-                "9kr",
-                "7gd",
-                "7ar",
-                "7tw",
-                "7cr",
-                "7gm",
-                "72a",
-                "crs",
-                "7kr"
-            ]
-        },
-        {
-            "name": "f2. Magic High Value Equpment",
+            "name": "e2. Magic High Value Equpment",
             "enabled": true,
             "ruleType": "show",
             "filterEtherealSocketed": false,
@@ -444,6 +389,61 @@
                 "bab",
                 "wad",
                 "drc"
+            ]
+        },
+        {
+            "name": "f1. Rare Rings and Amulets",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentCategory": [
+                "rings",
+                "amule"
+            ]
+        },
+        {
+            "name": "f2. Rare High Value Equipment",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentCategory": [
+                "glove",
+                "boots",
+                "barbh",
+                "druid",
+                "warlo",
+                "necro",
+                "circl",
+                "belts"
+            ],
+            "equipmentItemCode": [
+                "am5",
+                "7gs",
+                "9cr",
+                "7wa",
+                "9tw",
+                "7bk",
+                "7lw",
+                "9lw",
+                "ama",
+                "amf",
+                "7tk",
+                "7fb",
+                "9kr",
+                "7gd",
+                "7ar",
+                "7tw",
+                "7cr",
+                "7gm",
+                "72a",
+                "crs",
+                "7kr"
             ]
         }
     ]
