@@ -1,6 +1,12 @@
 # Changelog
 
-## General Changes (v1.3)
+## v1.3.1
+* Added patch versioning for hotfixes
+* Updated f2 (Rare High Value Equipment) to include Exceptional/Elite Sorceress Orbs
+
+---
+
+## v1.3
 
 * Added enumeration format `"XX. "` to all rules
 * Removed word `"Show"` from rule names
