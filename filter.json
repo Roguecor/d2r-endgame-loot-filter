@@ -1,0 +1,450 @@
+{
+    "name": "Endgame v1.3",
+    "rules": [
+        {
+            "name": "00. Hide All",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "rare",
+                "lowQuality",
+                "magic",
+                "set",
+                "unique",
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "acce",
+                "armo",
+                "weap"
+            ],
+            "itemCategory": [
+                "misc"
+            ],
+            "goldFilterValue": 100000
+        },
+        {
+            "name": "a1. Items",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCategory": [
+                "uberm",
+                "runes",
+                "terrt",
+                "absol"
+            ],
+            "itemCode": [
+                "gpw",
+                "gpb",
+                "glb",
+                "glw",
+                "glg",
+                "gcb",
+                "gcv",
+                "gpg",
+                "skz",
+                "skl",
+                "gzv",
+                "gcy",
+                "gpr",
+                "gpy",
+                "gly",
+                "gcw",
+                "skc",
+                "gcr",
+                "gcg",
+                "gpv",
+                "glr"
+            ]
+        },
+        {
+            "name": "a2. Gold",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "goldFilterValue": 5000
+        },
+        {
+            "name": "a3. Ammo",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCategory": [
+                "ammo"
+            ]
+        },
+        {
+            "name": "a4. Rejuvenation Potions",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "rvs",
+                "rvl"
+            ]
+        },
+        {
+            "name": "a5. Super Potions",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "mp5",
+                "hp5"
+            ]
+        },
+        {
+            "name": "b1. Uniques",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "unique"
+            ]
+        },
+        {
+            "name": "b2. Sets",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "set"
+            ]
+        },
+        {
+            "name": "b3. Rare All Class Equipment",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentCategory": [
+                "sorce",
+                "amazo",
+                "palad",
+                "druid",
+                "warlo",
+                "necro",
+                "barbh",
+                "assas"
+            ]
+        },
+        {
+            "name": "c1. Charms",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentCategory": [
+                "charm"
+            ]
+        },
+        {
+            "name": "c2. Jewels",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentCategory": [
+                "jewel"
+            ]
+        },
+        {
+            "name": "d1. Base Armors",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentItemCode": [
+                "ush",
+                "dr8",
+                "drd",
+                "ne6",
+                "ba7",
+                "ba9",
+                "dr6",
+                "dre",
+                "xtp",
+                "urn",
+                "baa",
+                "dr9",
+                "pab",
+                "wab",
+                "ba8",
+                "ne9",
+                "uhm",
+                "dra",
+                "waa",
+                "usk",
+                "wa9",
+                "uap",
+                "wa6",
+                "dr7",
+                "bac",
+                "ne8",
+                "nea",
+                "ci2",
+                "baf",
+                "urs",
+                "ned",
+                "nee",
+                "wac",
+                "bad",
+                "utp",
+                "uui",
+                "wae",
+                "wa8",
+                "drf",
+                "ula",
+                "wa7",
+                "waf",
+                "ci3",
+                "nef",
+                "ba6",
+                "uar",
+                "bae",
+                "uit",
+                "ne7",
+                "drb",
+                "uh9",
+                "neb",
+                "neg",
+                "bab",
+                "paf",
+                "wad",
+                "drc",
+                "utu"
+            ]
+        },
+        {
+            "name": "d2. Base Weapons",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentItemCode": [
+                "7bw",
+                "scy",
+                "7qs",
+                "7wc",
+                "9qs",
+                "6lw",
+                "7s8",
+                "9wn",
+                "7wa",
+                "7pa",
+                "9tw",
+                "amc",
+                "7yw",
+                "9lw",
+                "amb",
+                "7gd",
+                "7sc",
+                "7ar",
+                "7gw",
+                "9bw",
+                "9gw",
+                "72a",
+                "7kr",
+                "7gs",
+                "9sc",
+                "9yw",
+                "7lw",
+                "7wn",
+                "7fb",
+                "9kr",
+                "9ws",
+                "7tw",
+                "7cr",
+                "7gm",
+                "7vo",
+                "7ws",
+                "crs",
+                "6ws",
+                "7h7"
+            ]
+        },
+        {
+            "name": "e1. Rare Rings and Amulets",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentCategory": [
+                "rings",
+                "amule"
+            ]
+        },
+        {
+            "name": "e2. Magic Rings and Amulets",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "magic"
+            ],
+            "equipmentCategory": [
+                "rings",
+                "amule"
+            ]
+        },
+        {
+            "name": "f1. Rare High Value Equipment",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentCategory": [
+                "glove",
+                "boots",
+                "barbh",
+                "druid",
+                "warlo",
+                "necro",
+                "circl",
+                "belts"
+            ],
+            "equipmentItemCode": [
+                "am5",
+                "7gs",
+                "9cr",
+                "7wa",
+                "9tw",
+                "7bk",
+                "7lw",
+                "9lw",
+                "ama",
+                "amf",
+                "7tk",
+                "7fb",
+                "9kr",
+                "7gd",
+                "7ar",
+                "7tw",
+                "7cr",
+                "7gm",
+                "72a",
+                "crs",
+                "7kr"
+            ]
+        },
+        {
+            "name": "f2. Magic High Value Equpment",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "magic"
+            ],
+            "equipmentCategory": [
+                "circl"
+            ],
+            "equipmentItemCode": [
+                "drd",
+                "dr8",
+                "am5",
+                "obb",
+                "ba7",
+                "lgl",
+                "9wn",
+                "wab",
+                "7bk",
+                "tgl",
+                "wa9",
+                "wa6",
+                "ama",
+                "dr7",
+                "nea",
+                "7gw",
+                "9gw",
+                "bad",
+                "ob7",
+                "uui",
+                "drf",
+                "vgl",
+                "nef",
+                "9yw",
+                "uvg",
+                "ulg",
+                "xmg",
+                "obc",
+                "7lw",
+                "uit",
+                "umg",
+                "ne7",
+                "neb",
+                "7tw",
+                "xlg",
+                "utu",
+                "uea",
+                "7bw",
+                "obe",
+                "ne6",
+                "obd",
+                "ba9",
+                "dr6",
+                "7ta",
+                "oba",
+                "dre",
+                "9tw",
+                "baa",
+                "dr9",
+                "ba8",
+                "ne9",
+                "xtg",
+                "dra",
+                "7yw",
+                "waa",
+                "9lw",
+                "bac",
+                "amf",
+                "ne8",
+                "7ar",
+                "baf",
+                "ob6",
+                "9bw",
+                "ned",
+                "obf",
+                "ob8",
+                "urs",
+                "nee",
+                "wac",
+                "utp",
+                "wae",
+                "wa8",
+                "wa7",
+                "ula",
+                "waf",
+                "ba6",
+                "bae",
+                "mgl",
+                "7wn",
+                "xvg",
+                "drb",
+                "utg",
+                "neg",
+                "ob9",
+                "bab",
+                "wad",
+                "drc"
+            ]
+        }
+    ]
+}
