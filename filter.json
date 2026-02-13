@@ -1,5 +1,5 @@
 {
-    "name": "Endgame v1.3",
+    "name": "Endgame v1.3.1",
     "rules": [
         {
             "name": "00. Hide All",
@@ -423,12 +423,17 @@
                 "belts"
             ],
             "equipmentItemCode": [
+                "obe",
                 "am5",
                 "7gs",
+                "obd",
+                "obb",
                 "9cr",
+                "oba",
                 "7wa",
                 "9tw",
                 "7bk",
+                "obc",
                 "7lw",
                 "9lw",
                 "ama",
@@ -436,13 +441,18 @@
                 "7tk",
                 "7fb",
                 "9kr",
+                "ob9",
                 "7gd",
                 "7ar",
                 "7tw",
                 "7cr",
+                "ob6",
                 "7gm",
+                "ob8",
+                "obf",
                 "72a",
                 "crs",
+                "ob7",
                 "7kr"
             ]
         }
