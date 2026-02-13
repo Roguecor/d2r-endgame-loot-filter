@@ -3,6 +3,8 @@
 ## v1.3.1
 * Added patch versioning for hotfixes
 * Updated f2 (Rare High Value Equipment) to include Exceptional/Elite Sorceress Orbs
+* Removed Shako from d1 (Base Armors)
+* Added Decapitators to d2 (Base Weapons)
 
 ---
 
