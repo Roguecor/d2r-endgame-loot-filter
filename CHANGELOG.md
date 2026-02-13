@@ -1,8 +1,11 @@
 # Changelog
 
+## v1.3.2
+* Added Decapitator to <d2>
+
 ## v1.3.1
 * Added patch versioning for hotfixes
-* Updated f2 (Rare High Value Equipment) to include Exceptional/Elite Sorceress Orbs
+* Updated <f2> (Rare High Value Equipment) to include Exceptional/Elite Sorceress Orbs
 
 ---
 
