@@ -8,6 +8,7 @@
 * Then in game, click Copy from Clipboard
 * Save
 * Select the filter from the dropdown
+# Endgame v1.3.3 Loot Filter
 
 ## Instructions
 
@@ -18,6 +19,16 @@
 * Save
 * Select the filter from the dropdown
 
+## Instructions
+
+* Load into a game, press ESC and select Loot Filter
+* Click the down arrow button to import the filter
+* Copy the contents of filter.json
+* Then in game, click Copy from Clipboard
+* Save
+* Select the filter from the dropdown
+
+### Change Log
 ### Change Log
 *   [Changelog](CHANGELOG.md)
 
