@@ -15,12 +15,12 @@
 ---
 
 ## Suggestions for filtering
-- In Keybinds
+### In Keybinds
 * Bind "Message Log" to Shift+M
 * Bind "Show Items" to L
 * Bind "Show Items (Unfiltered) to Alt
 
-- In Gameplay
+### In Gameplay
 * Set Show Items to Toggle
 * Set Show Items (Unfiltered) to Hold
 
