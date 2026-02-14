@@ -5,13 +5,13 @@
 * Changed e2 (Magic High Value Equipment) Exceptional/Elite wands to All wands
 * Improved README to show updated and translated json
 
---
+---
 
 ## v1.3.2
 * Removed Shako from d1 (Base Armors)
 * Added Decapitators to d2 (Base Weapons)
 
---
+---
 
 ## v1.3.1
 * Added patch versioning for hotfixes
