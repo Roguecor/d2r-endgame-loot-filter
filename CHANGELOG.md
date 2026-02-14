@@ -1,10 +1,22 @@
 # Changelog
+## 1.3.3
+* Added wyrmhide to d1 (Base Armors)
+* Added all wands to f2 (Rare High Value Equipment)
+* Changed e2 (Magic High Value Equipment) Exceptional/Elite wands to All wands
+* Improved README to show updated and translated json
+
+--
+
+## v1.3.2
+* Removed Shako from d1 (Base Armors)
+* Added Decapitators to d2 (Base Weapons)
+
+--
 
 ## v1.3.1
 * Added patch versioning for hotfixes
 * Updated f2 (Rare High Value Equipment) to include Exceptional/Elite Sorceress Orbs
-* Removed Shako from d1 (Base Armors)
-* Added Decapitators to d2 (Base Weapons)
+
 
 ---
 
