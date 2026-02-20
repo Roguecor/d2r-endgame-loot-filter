@@ -1,4 +1,10 @@
 # Changelog
+
+## 1.3.7
+* Added all qualities to filtered rares where Upgrading may be viable.
+* Removed some lesser value magics
+* Added normal quality class items to rares and magics
+
 ## 1.3.3
 * Added wyrmhide to d1 (Base Armors)
 * Added all wands to f2 (Rare High Value Equipment)
