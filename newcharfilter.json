@@ -1,0 +1,153 @@
+{
+    "name": "New Char",
+    "rules": [
+        {
+            "name": "Hide Inferior",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "lowQuality"
+            ]
+        },
+        {
+            "name": "Hide Keys",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCategory": [
+                "keysr"
+            ]
+        },
+        {
+            "name": "Hide Small Gold",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "goldFilterValue": 10
+        },
+        {
+            "name": "Hide Ammo",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCategory": [
+                "ammo"
+            ]
+        },
+        {
+            "name": "Hide Minor Potions",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "mp1",
+                "hp1"
+            ]
+        },
+        {
+            "name": "Hide Light Potions",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "hp2",
+                "mp2"
+            ]
+        },
+        {
+            "name": "Hide Regular Potions",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "mp3",
+                "hp3"
+            ]
+        },
+        {
+            "name": "Hide Antidote and Thaw Potions",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "wms",
+                "yps"
+            ]
+        },
+        {
+            "name": "Hide Throwing Potions",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentItemCode": [
+                "gps",
+                "opl",
+                "gpl",
+                "gpm",
+                "opm"
+            ]
+        },
+        {
+            "name": "Hide Scrolls",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "isc",
+                "tsc"
+            ]
+        },
+        {
+            "name": "Hide Stamina Potions",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "vps"
+            ]
+        },
+        {
+            "name": "Hide Base Items",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional"
+            ],
+            "equipmentCategory": [
+                "bows",
+                "palad",
+                "maces",
+                "helms",
+                "belts",
+                "axes",
+                "amazo",
+                "glove",
+                "poles",
+                "shlds",
+                "armor",
+                "xbows",
+                "javel",
+                "spear",
+                "boots",
+                "sword",
+                "assas"
+            ],
+            "equipmentItemCode": [
+                "9tk",
+                "bkf",
+                "bal",
+                "tkf",
+                "tax",
+                "9b8",
+                "9ta",
+                "9bk"
+            ]
+        }
+    ]
+}
