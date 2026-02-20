@@ -12,7 +12,7 @@
         },
         {
             "name": "Hide Keys",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCategory": [
@@ -21,14 +21,14 @@
         },
         {
             "name": "Hide Small Gold",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "goldFilterValue": 10
         },
         {
             "name": "Hide Ammo",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCategory": [
@@ -37,7 +37,7 @@
         },
         {
             "name": "Hide Minor Potions",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCode": [
@@ -47,7 +47,7 @@
         },
         {
             "name": "Hide Light Potions",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCode": [
@@ -57,7 +57,7 @@
         },
         {
             "name": "Hide Regular Potions",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCode": [
@@ -67,7 +67,7 @@
         },
         {
             "name": "Hide Antidote and Thaw Potions",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCode": [
@@ -77,7 +77,7 @@
         },
         {
             "name": "Hide Throwing Potions",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "equipmentItemCode": [
@@ -90,7 +90,7 @@
         },
         {
             "name": "Hide Scrolls",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCode": [
@@ -100,7 +100,7 @@
         },
         {
             "name": "Hide Stamina Potions",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "itemCode": [
@@ -109,7 +109,7 @@
         },
         {
             "name": "Hide Base Items",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
             "equipmentRarity": [
